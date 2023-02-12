@@ -1,0 +1,22 @@
+/* =============== VARIABLES ================ */
+:root {
+    --accent: #667fea;
+    --box-shadow: rgba(0, 0, 0, 0.05) 0px 10px 10px;
+}
+
+.theme {
+    --background-primary: #ffffff;
+    --background-secondary: #f7f7f7;
+
+    --action-primary: #e1e7ef;
+    --action-secondary: #edf2f7;
+
+    --foreground-primary: #2d3748;
+    --foreground-secondary: #728197;
+    --foreground-tertiary: #a0aec0;
+}
+
+/* =============== BASE ================ */
+
+
+/* =============== REUSABLE CLASSES ================ */
